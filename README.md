@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-![image](https://artemon4ik8091.github.io/photo_readme.jpeg)
+<!--![image](https://artemon4ik8091.github.io/photo_readme.jpeg)-->
 
 <!--
 **Artemon4ik8091/Artemon4ik8091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
