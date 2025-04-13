@@ -3,9 +3,7 @@
 <!--![image](https://artemon4ik8091.github.io/photo_readme.jpeg)-->
 
 Просто любитель Watch Dogs.
-
 Что то может, но что - неясно.
-
 Скоро тут возможно будет баннер.
 
 Good luck.
