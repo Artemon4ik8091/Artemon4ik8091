@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-![image](https://artemon4ik8091.github.io/logo1.jpg)
+![image](https://artemon4ik8091.github.io/logo1.png)
 
 <!--Просто любитель Watch Dogs.
 Что то может, но что - неясно.
