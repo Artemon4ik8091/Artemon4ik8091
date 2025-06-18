@@ -1,12 +1,12 @@
 <!--## Hi there 👋-->
 
-<!--![image](https://artemon4ik8091.github.io/photo_readme.jpeg)-->
+![image](https://artemon4ik8091.github.io/logo1.jpg)
 
-Просто любитель Watch Dogs.
+<!--Просто любитель Watch Dogs.
 Что то может, но что - неясно.
 Скоро тут возможно будет баннер.
 
-Good luck.
+Good luck.-->
 
 
 <!--
